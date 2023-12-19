@@ -12,7 +12,7 @@ Hi, I am Liu Haolin, and I am currently a Ph.D student from the Chinese Universi
 supervised by Prof. Xiaoguang Han. <br>
 My research interest includes indoor scene reconstruction and understanding. Espectially in instance-level
 scene reconstruction. <br>
-I will be intern in Tencent AI lab for the next few months and continue research for AIGC. <br>
+I will be an intern in Tencent AI lab for the next few months and continue research in AIGC. <br>
 I will graduate in July 2024, and I am open to job opportunity.
 
 ## News
@@ -20,4 +20,5 @@ I will graduate in July 2024, and I am open to job opportunity.
 2. MVImgNet got accepted by CVPR 2023. 
 3. InstPIFu got accepted by ECCV 2022.
 4. Refer-it-in-RGBD got accepted by CVPR 2021.
+5. JAFPro got accepted by ACM MM 2020.
 
