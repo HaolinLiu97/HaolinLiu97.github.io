@@ -13,4 +13,8 @@ supervised by Prof. Xiaoguang Han. <br>
 My research interest includes indoor scene reconstruction and understanding.
 
 ## News
-MVImgNet got accepted by CVPR 2023
+1. Our latest work LASA is now released!
+2. MVImgNet got accepted by CVPR 2023. 
+3. InstPIFu got accepted by ECCV 2022.
+4. Refer-it-in-RGBD got accepted by CVPR 2021.
+
