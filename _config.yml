@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "CN"
-title                    : "Ph.D candidate"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Haolin Liu"
 description              : &description "This is Haolin Liu's personal webpage"
@@ -236,14 +236,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
