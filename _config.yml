@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "CN"
-title                    : "About Me"
+title                    : "Haolin Liu's Website"
 title_separator          : "-"
 name                     : &name "Haolin Liu"
 description              : &description "This is Haolin Liu's personal webpage"
