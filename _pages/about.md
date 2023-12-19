@@ -10,7 +10,10 @@ redirect_from:
 
 Hi, I am Liu Haolin, and I am currently a Ph.D student from the Chinese University of HongKong, Shenzhen, 
 supervised by Prof. Xiaoguang Han. <br>
-My research interest includes indoor scene reconstruction and understanding.
+My research interest includes indoor scene reconstruction and understanding. Espectially in instance-level
+scene reconstruction. <br>
+I will be intern in Tencent AI lab for the next few months and continue research for AIGC. <br>
+I will graduate in July 2024, and I am open to job opportunity.
 
 ## News
 1. Our latest work LASA is now released!
