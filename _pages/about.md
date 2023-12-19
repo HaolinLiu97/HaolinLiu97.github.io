@@ -16,9 +16,9 @@ I will be an intern in Tencent AI lab for the next few months and continue resea
 I will graduate in July 2024, and I am open to job opportunity.
 
 ## News
-1. Our latest work LASA is now released!
-2. MVImgNet got accepted by CVPR 2023. 
-3. InstPIFu got accepted by ECCV 2022.
-4. Refer-it-in-RGBD got accepted by CVPR 2021.
-5. JAFPro got accepted by ACM MM 2020.
+Our latest work LASA is now released! <br>
+MVImgNet got accepted by CVPR 2023. <br>
+InstPIFu got accepted by ECCV 2022. <br>
+Refer-it-in-RGBD got accepted by CVPR 2021. <br>
+JAFPro got accepted by ACM MM 2020. <br>
 
