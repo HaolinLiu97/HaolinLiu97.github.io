@@ -27,36 +27,106 @@ I will graduate in July 2024, and I am open to job opportunity.
 
 ## Publication
 <div>
-  <img style="float: left" src="../zjlimages/pub/SketchMetaface.png" width="175px">
-</div>
-<div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+  <img style="float: left" src="../images/LASA.png" width="175px">
 </div>
 <div>
   <p style="line-height:118%">
     <font size="4">
-      <b><i>SketchMetaFace</i>: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling</b>
+      <b>LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset</b>
       <br>
     </font> 
     <font size="2">
-      <b>Zhongjin Luo</b>, 
-      Dong Du, 
-      Heming Zhu, 
-      <a href="https://i.cs.hku.hk/~yzyu/">Yizhou Yu</a>,
-      <a href="http://sweb.cityu.edu.hk/hongbofu/index.htm">Hongbo Fu</a>,
-      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>
+      <b>Haolin Liu*</b>, 
+      <a href="https://github.com/hugoycj">Chongjie Ye*</a>, 
+      <a href="https://yinyunie.github.io">Yinyu Nie</a>,
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>
       <br>
     </font> 
     <font size="2">
-      Transactions on Visualization and Computer Graphics (<b>TVCG</b>), 2023
+      Preprint, 2023
       <br>
     </font> 
     <font size="2">
-      <a href="https://arxiv.org/abs/2307.00804">[paper]</a> /
-      <a href="https://zhongjinluo.github.io/SketchMetaFace/">[project]</a> /
-      <a href="https://github.com/zhongjinluo/SketchMetaFace/">[code]</a>
+      <a href="https://arxiv.org/abs/2312.12418">[paper]</a> /
+      <a href="https://gap-lab-cuhk-sz.github.io/LASA/">[project]</a>
     </font>
   </p>
 </div>
+
 <br>
+
+<div>
+  <img style="float: left" src="../images/mvimgnet.png" width="175px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b>MVImgNet: A Large-scale Dataset of Multi-view Images</b>
+      <br>
+    </font> 
+    <font size="2">
+      Xianggang Yu*, 
+      Mutian Xu*,
+      Yidan Zhang*,
+      <b>Haolin Liu*</b>,
+      <a href="https://github.com/hugoycj">Chongjie Ye*</a>, 
+      Yushuang Wu,
+      Zizheng Yan,
+      Chenming Zhu,
+      Zhangyang Xiong,
+      Tianyou Liang,
+      <a href="https://guanyingc.github.io/">Guanying Chen</a>,
+      Shuguang Cui,
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>
+      <br>
+    </font> 
+    <font size="2">
+      Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), 2023
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_MVImgNet_A_Large-Scale_Dataset_of_Multi-View_Images_CVPR_2023_paper.pdf">[paper]</a> /
+      <a href="https://gaplab.cuhk.edu.cn/projects/MVImgNet/">[project]</a> /
+      <a href="https://github.com/GAP-LAB-CUHK-SZ/MVImgNet">[code]</a>
+    </font>
+  </p>
+</div>
+
+<br>
+
+<div>
+  <img style="float: left" src="../images/instpifu.png" width="175px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b>Towards High-Fidelity Single-view Holistic Reconstruction of Indoor Scenes</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Haolin Liu*</b>, 
+      <a href="https://paulyzheng.github.io/about/">Yujian Zheng*</a>, 
+      <a href="https://guanyingc.github.io/">Guanying Chen</a>,
+      Shuguang Cui,
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>
+      <br>
+    </font> 
+    <font size="2">
+      European Conference on Computer Vision (<b>ECCV</b>), 2022
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2207.08656">[paper]</a> /
+      <a href="https://github.com/GAP-LAB-CUHK-SZ/InstPIFu">[code]</a>
+    </font>
+  </p>
+</div>
+
+<div>
+still updating ...
+</div>
+
+<div>
+* indicates co-first author, &dagger; indicates corresponding author.
+</div>
 
