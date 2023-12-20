@@ -163,8 +163,6 @@ I will graduate in July 2024, and I am open to job opportunity.
       <br>
     </font> 
     <font size="2">
-      Mutian Xu*, 
-      Yidan Zhang*, 
       <b>Haolin Liu</b>,
       Anran Lin,
       <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>,
