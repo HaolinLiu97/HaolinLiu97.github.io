@@ -27,7 +27,7 @@ I will graduate in July 2024, and I am open to job opportunity.
 
 ## Publication
 <div>
-  <img style="float: left" src="../images/LASA.png" width="175px">
+  <img style="float: left" src="../images/LASA.png" width="200px">
 </div>
 <div>
   <p style="line-height:118%">
@@ -56,7 +56,7 @@ I will graduate in July 2024, and I am open to job opportunity.
 <br>
 
 <div>
-  <img style="float: left" src="../images/mvimgnet.png" width="175px">
+  <img style="float: left" src="../images/mvimgnet.png" width="200px">
 </div>
 <div>
   <p style="line-height:118%">
@@ -95,7 +95,7 @@ I will graduate in July 2024, and I am open to job opportunity.
 <br>
 
 <div>
-  <img style="float: left" src="../images/instpifu.png" width="175px">
+  <img style="float: left" src="../images/instpifu.png" width="200px">
 </div>
 <div>
   <p style="line-height:118%">
@@ -122,10 +122,98 @@ I will graduate in July 2024, and I am open to job opportunity.
   </p>
 </div>
 
+<br>
+
 <div>
-still updating ...
+  <img style="float: left" src="../images/toscene.png" width="200px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b>TO-Scene: A Large-scale Dataset for Understanding 3D Tabletop Scenes</b>
+      <br>
+    </font> 
+    <font size="2">
+      Mutian Xu*, 
+      Yidan Zhang*, 
+      <b>Haolin Liu</b>,
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>
+      <br>
+    </font> 
+    <font size="2">
+      European Conference on Computer Vision (<b>ECCV</b>), 2022, <b>Oral Presentation</b>
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2203.09440">[paper]</a> /
+      <a href="https://github.com/GAP-LAB-CUHK-SZ/TO-Scene">[code]</a>
+    </font>
+  </p>
 </div>
 
+<br>
+
+<div>
+  <img style="float: left" src="../images/refer-it-in-rgbd.png" width="200px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b>Refer-it-in-RGBD: A Bottom-up Approach for 3D Visual Grounding in RGBD Images</b>
+      <br>
+    </font> 
+    <font size="2">
+      Mutian Xu*, 
+      Yidan Zhang*, 
+      <b>Haolin Liu</b>,
+      Anran Lin,
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>,
+      Lei Yang,
+      Yizhou Yu,
+      Shuguang Cui
+      <br>
+    </font> 
+    <font size="2">
+      Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), 2021
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2103.07894">[paper]</a> /
+      <a href="https://github.com/HaolinLiu97/Refer-it-in-RGBD">[code]</a>
+    </font>
+  </p>
+</div>
+
+<br>
+
+<div>
+  <img style="float: left" src="../images/jafpro.png" width="200px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b>JAFPro: Joint Appearance Fusion and Propagation for Human Video Motion Transfer from Multiple Reference Images</b>
+      <br>
+    </font> 
+    <font size="2">
+      Xianggang Yu,
+      <b>Haolin Liu*</b>,
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>,
+      Zhen Li,
+      Zixiang Xiong,
+      Shuguang Cui
+      <br>
+    </font> 
+    <font size="2">
+      ACM International Conference on Multimedia (<b>ACM MM</b>), 2020
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://dl.acm.org/doi/abs/10.1145/3394171.3414001">[paper]</a> /
+      <a href="https://github.com/Larry-u/JAFPro">[code]</a>
+    </font>
+  </p>
+</div>
 <div>
 * indicates co-first author, &dagger; indicates corresponding author.
 </div>
