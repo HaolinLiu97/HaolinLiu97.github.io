@@ -14,9 +14,9 @@ I will be an intern in Tencent AI lab for the next few months and continue resea
 I will graduate in July 2024, and I am open to job opportunity.
 
 ## Interest
-* Instance-level scene reconstruction
+* Instance-level scene reconstruction, object reconstruction
 * text-to-3D
-* 3D object detection or indoor scene understanding
+* 3D object detection and indoor scene understanding
 
 ## News
 * [2023.12] Our latest work LASA is now released! <br>
