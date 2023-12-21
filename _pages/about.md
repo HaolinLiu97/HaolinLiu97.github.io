@@ -217,7 +217,7 @@ I will graduate in July 2024, and I am open to job opportunity.
       <br>
     </font> 
     <font size="2">
-      Xianggang Yu,
+      Xianggang Yu*,
       <b>Haolin Liu*</b>,
       <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>,
       Zhen Li,
