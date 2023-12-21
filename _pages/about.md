@@ -26,8 +26,12 @@ I will graduate in July 2024, and I am open to job opportunity.
 * [2020.06] JAFPro got accepted by ACM MM 2020. <br>
 
 ## Publication
+<div style="margin-bottom: 40px;">
 <div>
-  <img style="float: left" src="../images/LASA.png" width="200px">
+  <img style="float: left" src="../images/LASA.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../images/border_row2.png" width="11px">
 </div>
 <div>
   <p style="line-height:118%">
@@ -52,11 +56,15 @@ I will graduate in July 2024, and I am open to job opportunity.
     </font>
   </p>
 </div>
+</div>
 
 <br>
 
 <div>
-  <img style="float: left" src="../images/mvimgnet.png" width="200px">
+  <img style="float: left" src="../images/mvimgnet.png" width="250px">
+</div>
+<div>
+  <img style="float: left" src="../images/border_row2.png" width="10px">
 </div>
 <div>
   <p style="line-height:118%">
@@ -98,6 +106,9 @@ I will graduate in July 2024, and I am open to job opportunity.
   <img style="float: left" src="../images/instpifu.png" width="200px">
 </div>
 <div>
+  <img style="float: left" src="../images/border_row2.png" width="10px">
+</div>
+<div>
   <p style="line-height:118%">
     <font size="4">
       <b>Towards High-Fidelity Single-view Holistic Reconstruction of Indoor Scenes</b>
@@ -128,6 +139,9 @@ I will graduate in July 2024, and I am open to job opportunity.
   <img style="float: left" src="../images/toscene.png" width="200px">
 </div>
 <div>
+  <img style="float: left" src="../images/border_row2.png" width="10px">
+</div>
+<div>
   <p style="line-height:118%">
     <font size="4">
       <b>TO-Scene: A Large-scale Dataset for Understanding 3D Tabletop Scenes</b>
@@ -153,8 +167,12 @@ I will graduate in July 2024, and I am open to job opportunity.
 
 <br>
 
+<div style="margin-bottom: 60px;">
 <div>
   <img style="float: left" src="../images/refer-it-in-rgbd.png" width="200px">
+</div>
+<div>
+  <img style="float: left" src="../images/border_row2.png" width="10px">
 </div>
 <div>
   <p style="line-height:118%">
@@ -181,11 +199,15 @@ I will graduate in July 2024, and I am open to job opportunity.
     </font>
   </p>
 </div>
+</div>
 
 <br>
 
 <div>
   <img style="float: left" src="../images/jafpro.png" width="200px">
+</div>
+<div>
+  <img style="float: left" src="../images/border_row2.png" width="10px">
 </div>
 <div>
   <p style="line-height:118%">
@@ -212,6 +234,7 @@ I will graduate in July 2024, and I am open to job opportunity.
     </font>
   </p>
 </div>
+<br>
 <div>
 * indicates co-first author, &dagger; indicates corresponding author.
 </div>
