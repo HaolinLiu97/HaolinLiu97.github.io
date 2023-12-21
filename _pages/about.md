@@ -52,7 +52,8 @@ I will graduate in July 2024, and I am open to job opportunity.
     </font> 
     <font size="2">
       <a href="https://arxiv.org/abs/2312.12418">[paper]</a> /
-      <a href="https://gap-lab-cuhk-sz.github.io/LASA/">[project]</a>
+      <a href="https://gap-lab-cuhk-sz.github.io/LASA/">[project]</a> /
+      <a href="https://github.com/GAP-LAB-CUHK-SZ/LASA">[code]</a>
     </font>
   </p>
 </div>
