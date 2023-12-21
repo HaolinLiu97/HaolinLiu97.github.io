@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Liu Haolin, and I am currently a Ph.D student from the Chinese University of HongKong, Shenzhen, 
-supervised by <a href="https://gaplab.cuhk.edu.cn/">Prof. Xiaoguang Han</a>. The homepage of our GAP Lab is <a href="https://gaplab.cuhk.edu.cn/">GAP Lab's home page</a>.<br>
-I will be an intern in Tencent AI lab for the next few months and continue research in AIGC. <br>
-I will graduate in July 2024, and I am open to job opportunity.
+Greetings! I am Liu Haolin, a Ph.D student at the Chinese University of HongKong, Shenzhen, under the supervision of
+<a href="https://gaplab.cuhk.edu.cn/">Prof. Xiaoguang Han</a>. My current research focus is about indoor scene reconstruction and understanding.<br>
+I will be an intern in Tencent AI lab for the next few months. I am currently dedicated to advancing research in 3D AIGC. <br>
+I will graduate in July 2024, and I am actively exploring exciting job opportunities or postdoc position.
 
 ## Interest
 * Instance-level scene reconstruction, object reconstruction
