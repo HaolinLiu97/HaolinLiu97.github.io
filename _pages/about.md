@@ -34,7 +34,7 @@ I will graduate in July 2024, and I am actively exploring exciting job opportuni
   <img style="float: left" src="../images/border_row2.png" width="11px">
 </div>
 <div>
-  <p style="line-height:118%">
+  <p style="line-height:118%">  
     <font size="4">
       <b>LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset</b>
       <br>
@@ -47,7 +47,7 @@ I will graduate in July 2024, and I am actively exploring exciting job opportuni
       <br>
     </font> 
     <font size="2">
-      Preprint, 2023
+      CVPR, 2024
       <br>
     </font> 
     <font size="2">
