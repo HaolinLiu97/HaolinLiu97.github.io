@@ -44,11 +44,12 @@ My resume can be accessed from <a href="https://haolinliu97.github.io/files/resu
       <b>Haolin Liu*</b>, 
       <a href="https://github.com/hugoycj">Chongjie Ye*</a>, 
       <a href="https://yinyunie.github.io">Yinyu Nie</a>,
+      Yingfan He,
       <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>
       <br>
     </font> 
     <font size="2">
-      CVPR, 2024
+      Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), 2024
       <br>
     </font> 
     <font size="2">
