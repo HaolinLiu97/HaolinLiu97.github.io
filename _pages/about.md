@@ -20,6 +20,7 @@ My resume can be accessed from <a href="https://haolinliu97.github.io/files/resu
 * 3D object detection and indoor scene understanding
 
 ## News
+* [2023.07] MVImgNet 2.0 and GarVerseLOD got accepted as ACM TOG 2024. <br>
 * [2023.12] Our latest work LASA is now released! <br>
 * [2023.03] MVImgNet got accepted by CVPR 2023. <br>
 * [2022.05] InstPIFu got accepted by ECCV 2022. <br>
