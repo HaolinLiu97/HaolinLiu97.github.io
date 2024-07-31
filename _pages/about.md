@@ -28,7 +28,43 @@ My resume can be accessed from <a href="https://haolinliu97.github.io/files/resu
 * [2020.06] JAFPro got accepted by ACM MM 2020. <br>
 
 ## Publication
+
 <div style="margin-bottom: 40px;">
+<div>
+  <img style="float: left" src="../images/mvimgnet2.jpg" width="180px">
+</div>
+<div>
+  <img style="float: left" src="../images/border_row2.png" width="11px">
+</div>
+<div>
+  <p style="line-height:118%">  
+    <font size="4">
+      <b>MVImgNet2.0: A Larger-scale Dataset of Multi-view Images</b>
+      <br>
+    </font> 
+    <font size="2">
+      Yushuang Wu*, 
+      Luyue Shi*,
+      <b>Haolin Liu*</b>,
+      Hongjie Liao,
+      Lingteng Qiu,
+      Weihao Yuan,
+      Xiaodong Gu,
+      Zilong Dong,
+      Shuguang Cui,
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>
+      <br>
+    </font> 
+    <font size="2">
+      ACM Transactions on Graphics (<b>TOG</b>), 2024
+      <br>
+    </font> 
+    <font size="2">
+      Paper, code, dataset are coming Soon
+    </font>
+  </p>
+</div>
+
 <div>
   <img style="float: left" src="../images/LASA.png" width="175px">
 </div>
