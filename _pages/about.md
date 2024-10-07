@@ -43,6 +43,7 @@ My resume can be accessed from <a href="https://haolinliu97.github.io/files/resu
       <br>
     </font> 
     <font size="2">
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>,
       Yushuang Wu*, 
       Luyue Shi*,
       <b>Haolin Liu*</b>,
@@ -52,7 +53,6 @@ My resume can be accessed from <a href="https://haolinliu97.github.io/files/resu
       Xiaodong Gu,
       Zilong Dong,
       Shuguang Cui,
-      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>
       <br>
     </font> 
     <font size="2">
