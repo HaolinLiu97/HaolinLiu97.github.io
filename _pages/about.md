@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Greetings! I am Liu Haolin, a Ph.D student at the Chinese University of HongKong, Shenzhen, under the supervision of
-<a href="https://gaplab.cuhk.edu.cn/">Prof. Xiaoguang Han</a>. My current research focus is about indoor scene reconstruction and understanding.<br>
+Prof. Shuguang Cui and <a href="https://gaplab.cuhk.edu.cn/">Prof. Xiaoguang Han</a>. My current research focus is about indoor scene reconstruction and understanding.<br>
 I will be an intern in Tencent AI lab for the next few months. I am currently dedicated to advancing research in 3D AIGC. <br>
 I will graduate in Octo 2024, and I am actively exploring exciting job opportunities or postdoc position. <br>
 My resume can be accessed from <a href="https://haolinliu97.github.io/files/resume.pdf">resume</a>.
