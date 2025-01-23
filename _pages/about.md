@@ -83,7 +83,6 @@ My current research focus are <b>indoor scene reconstruction, understanding, and
       Wanhu Sun,
       Yinyu Nie,
       Weikai Chen,
-      Xiaoguang Han
       <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>,
       <br>
     </font> 
