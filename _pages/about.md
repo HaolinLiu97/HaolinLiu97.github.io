@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am Liu Haolin, a Ph.D student at the Chinese University of HongKong, Shenzhen, under the supervision of
-Prof. Shuguang Cui and <a href="https://gaplab.cuhk.edu.cn/">Prof. Xiaoguang Han</a>. My current research focus is about indoor scene reconstruction and understanding.<br>
-I will be an intern in Tencent AI lab for the next few months. I am currently dedicated to advancing research in 3D AIGC. <br>
-I will graduate in Octo 2024, and I am actively exploring exciting job opportunities or postdoc position. <br>
-My resume can be accessed from <a href="https://haolinliu97.github.io/files/resume.pdf">resume</a>.
+Greetings! I am Liu Haolin. I was having my Ph.D from the Chinese University of HongKong, Shenzhen from 2019~2024 , under the supervision of
+Prof. Shuguang Cui and <a href="https://gaplab.cuhk.edu.cn/">Prof. Xiaoguang Han</a>. <br>
+I was an intern in Tecent AI Lab for 2024. <br>
+Currently I am a research scientist in Tecent Hunyuan.<br>
+My current research focus are <b>indoor scene reconstruction, understanding, and 3D generative model.<b><br>
+
 
 ## Interest
 * Instance-level scene reconstruction, object reconstruction
@@ -60,7 +61,43 @@ My resume can be accessed from <a href="https://haolinliu97.github.io/files/resu
       <br>
     </font> 
     <font size="2">
-      Paper, code, dataset are coming Soon
+      <a href="https://arxiv.org/abs/2412.01430">[paper]</a>
+    </font>
+  </p>
+</div>
+
+<div style="margin-bottom: 40px;">
+<div>
+  <img style="float: left" src="../images/garverselod.jpg" width="180px">
+</div>
+<div>
+  <img style="float: left" src="../images/border_row2.png" width="11px">
+</div>
+<div>
+  <p style="line-height:118%">  
+    <font size="4">
+      <b>GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single In-the-Wild Image using a Dataset with Levels of Details</b>
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>,
+      Yushuang Wu*, 
+      Luyue Shi*,
+      <b>Haolin Liu*</b>,
+      Hongjie Liao,
+      Lingteng Qiu,
+      Weihao Yuan,
+      Xiaodong Gu,
+      Zilong Dong,
+      Shuguang Cui,
+      <br>
+    </font> 
+    <font size="2">
+      ACM Transactions on Graphics (<b>TOG</b>), 2024
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/pdf/2411.03047">[paper]</a>
     </font>
   </p>
 </div>
