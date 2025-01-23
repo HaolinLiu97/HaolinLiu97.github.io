@@ -75,16 +75,16 @@ My current research focus are <b>indoor scene reconstruction, understanding, and
       <br>
     </font> 
     <font size="2">
+      Zhongjin Luo,
+      <b>Haolin Liu</b>,
+      Chenghong Li,
+      Wanghao Du,
+      Zirong Jin,
+      Wanhu Sun,
+      Yinyu Nie,
+      Weikai Chen,
+      Xiaoguang Han
       <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>,
-      Yushuang Wu*, 
-      Luyue Shi*,
-      <b>Haolin Liu*</b>,
-      Hongjie Liao,
-      Lingteng Qiu,
-      Weihao Yuan,
-      Xiaodong Gu,
-      Zilong Dong,
-      Shuguang Cui,
       <br>
     </font> 
     <font size="2">
