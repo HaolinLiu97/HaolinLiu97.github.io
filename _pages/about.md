@@ -10,8 +10,8 @@ redirect_from:
 
 Greetings! I am Liu Haolin. I was having my Ph.D from the Chinese University of HongKong, Shenzhen from 2019~2024 , under the supervision of
 Prof. Shuguang Cui and <a href="https://gaplab.cuhk.edu.cn/">Prof. Xiaoguang Han</a>. <br>
-I was an intern in Tecent AI Lab for 2024. <br>
-Currently I am a research scientist in Tecent Hunyuan.<br>
+I was an intern in Tencent AI Lab during 2024. <br>
+Currently I am a research scientist in Tecent Hunyuan 3D team.<br>
 My current research focus are <b>indoor scene reconstruction, understanding, and 3D generative model.<b><br>
 
 ## News
