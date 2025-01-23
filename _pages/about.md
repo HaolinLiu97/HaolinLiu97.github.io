@@ -14,14 +14,9 @@ I was an intern in Tecent AI Lab for 2024. <br>
 Currently I am a research scientist in Tecent Hunyuan.<br>
 My current research focus are <b>indoor scene reconstruction, understanding, and 3D generative model.<b><br>
 
-
-## Interest
-* Instance-level scene reconstruction, object reconstruction
-* text-to-3D
-* 3D object detection and indoor scene understanding
-
 ## News
-* [2023.07] MVImgNet 2.0 and GarVerseLOD got accepted as ACM TOG 2024. <br>
+* [2025.01] <a href="https://github.com/Tencent/Hunyuan3D-2">Hunyuan3D-2</a> is now released! feel free to try out and give us feedback. 
+* [2024.07] MVImgNet 2.0 and GarVerseLOD got accepted as ACM TOG 2024. <br>
 * [2023.12] Our latest work LASA is now released! <br>
 * [2023.03] MVImgNet got accepted by CVPR 2023. <br>
 * [2022.05] InstPIFu got accepted by ECCV 2022. <br>
