@@ -63,7 +63,7 @@ My current research focus are <b>indoor scene reconstruction, understanding, and
 
 <div style="margin-bottom: 40px;">
 <div>
-  <img style="float: left" src="../images/garverselod.jpg" width="180px">
+  <img style="float: left" src="../images/garverselod.png" width="180px">
 </div>
 <div>
   <img style="float: left" src="../images/border_row2.png" width="11px">
