@@ -41,7 +41,7 @@ My current research focus are <b>indoor scene reconstruction, understanding, and
     </font> 
     <font size="2">
       <b>Haolin Liu*</b>,
-      <a href="https://xiaohangzhan.github.io/">Xiaohang Zhan*</a>
+      <a href="https://xiaohangzhan.github.io/">Xiaohang Zhan*</a>,
       Zizheng Yan*
       Yuxin Wen,
       <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>
@@ -73,7 +73,7 @@ My current research focus are <b>indoor scene reconstruction, understanding, and
       <br>
     </font> 
     <font size="2">
-      <b>Haolin Liu</b> is one of the core contributors,
+      <b>Haolin Liu</b> is one of the core contributors
       <br>
     </font> 
     <font size="2">
