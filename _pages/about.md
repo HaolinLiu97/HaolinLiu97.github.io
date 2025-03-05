@@ -77,7 +77,7 @@ My current research focus are <b>indoor scene reconstruction, understanding, and
       <br>
     </font> 
     <font size="2">
-      ACM Transactions on Graphics (<b>TOG</b>), 2024
+      Technical Report, 2025
       <br>
     </font> 
     <font size="2">
