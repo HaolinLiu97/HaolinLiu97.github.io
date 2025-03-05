@@ -15,6 +15,7 @@ Currently I am a research scientist in Tecent Hunyuan 3D team.<br>
 My current research focus are <b>indoor scene reconstruction, understanding, and 3D generative model.<b><br>
 
 ## News
+* [2025.03] One paper accepted by CVPR 2025!
 * [2025.01] <a href="https://github.com/Tencent/Hunyuan3D-2">Hunyuan3D-2</a> is now released! feel free to try out and give us feedback. 
 * [2024.07] MVImgNet 2.0 and GarVerseLOD got accepted as ACM TOG 2024. <br>
 * [2023.12] Our latest work LASA is now released! <br>
@@ -24,6 +25,69 @@ My current research focus are <b>indoor scene reconstruction, understanding, and
 * [2020.06] JAFPro got accepted by ACM MM 2020. <br>
 
 ## Publication
+
+<div style="margin-bottom: 40px;">
+<div>
+  <img style="float: left" src="../images/stable-score.png" width="180px">
+</div>
+<div>
+  <img style="float: left" src="../images/border_row2.png" width="11px">
+</div>
+<div>
+  <p style="line-height:118%">  
+    <font size="4">
+      <b>Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Haolin Liu*</b>,
+      <a href="https://xiaohangzhan.github.io/">Xiaohang Zhan*</a>
+      Zizheng Yan*
+      Yuxin Wen,
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han&dagger;</a>
+      <br>
+    </font> 
+    <font size="2">
+      Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), 2025
+      <br>
+    </font> 
+    <font size="2">
+      <b>paper and codes coming soon</b>
+    </font>
+  </p>
+</div>
+<br>
+
+
+<div style="margin-bottom: 40px;">
+<div>
+  <img style="float: left" src="../images/hunyuan3d2.jpg" width="180px">
+</div>
+<div>
+  <img style="float: left" src="../images/border_row2.png" width="11px">
+</div>
+<div>
+  <p style="line-height:118%">  
+    <font size="4">
+      <b>Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Haolin Liu</b> is one of the core contributors,
+      <br>
+    </font> 
+    <font size="2">
+      ACM Transactions on Graphics (<b>TOG</b>), 2024
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2501.12202">[paper]</a>
+      <a href="https://github.com/Tencent/Hunyuan3D-2">[code]</a>
+    </font>
+  </p>
+</div>
+<br>
+
 
 <div style="margin-bottom: 40px;">
 <div>
